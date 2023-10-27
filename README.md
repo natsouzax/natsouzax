@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**natsouzax/natsouzax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 💬 Ask me about ...
 
-Here are some ideas to get you started:
+My name is Natan de Souza Oliveira, and I am a student at IF Sudeste MG Campus Rio Pomba.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am studying information integration in high school.
+
+### Languages ⚡
+I am studying several programming languages, but my principal languages are:
+
+- Python
+
+- A little C#
+
+- Basic Front-end
+
+--->
+### More about me 🤔
+This is my professional testing and study page. Any type of knowledge is welcome! 😄
