@@ -8,9 +8,9 @@
 
 ## ⚡ About me
 
-- 🧠 I’m currently learning and aplying **Python**, **C#**, and **Front-end basics** (HTML, CSS, JavaScript)
-- 💬 Ask me about: programming, 3D printing, tech projects, or academic life!
-- 🔭 I’m working on: small Python projects and automation tools
+- 🧠 I’m currently learning and applying **Python**, **C#**, **PHP**, **SQL/Databases**, and **Front-end basics** (HTML, CSS, JavaScript)  
+- 💬 Ask me about: programming, 3D printing, tech projects, or academic life!  
+- 🔭 I’m working on: small Python projects, PHP apps, and automation tools  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natan-oliveira-5bb091206) • [Instagram](https://www.instagram.com/ntzn_17)
 
 ---
@@ -19,6 +19,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-375BD2?style=for-the-badge&logo=blender&logoColor=white)
@@ -32,18 +34,14 @@
 🔹 [**School Work - OOP PHP**](https://github.com/natsouzax/SchoolWork_OOP_PHP) — Object-Oriented Programming project in PHP, demonstrating class design and relationships.  
 🔹 [**2D Python Game**](https://github.com/natsouzax/2D-_Python_Game) — A 2D game created in Python as part of a school assignment, with graphics and gameplay.  
 
-
-
 ---
 
 ## 📊 GitHub Stats
 
 ![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&ount_private=true&cache_seconds=0)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&count_private=true&cache_seconds=0)
 
 ---
-
 
 ## 🌱 Fun fact
 
