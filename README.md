@@ -28,8 +28,11 @@
 
 ## 📂 Featured Projects
 
-🔹 [**jogo_python**](https://github.com/natsouzax/jogo_python) — A Python game developed for learning purposes.  
-🔹 [**Jogos-de-Python**](https://github.com/natsouzax/Jogos-de-Python) — Fun projects exploring Python logic and creativity.
+🔹 [**AI English Learning (Python)**](https://github.com/natsouzax/AI_english_learning_done_in_python) — An AI-powered project for learning English with interactive flashcards and quizzes.  
+🔹 [**School Work - OOP PHP**](https://github.com/natsouzax/SchoolWork_OOP_PHP) — Object-Oriented Programming project in PHP, demonstrating class design and relationships.  
+🔹 [**2D Python Game**](https://github.com/natsouzax/2D-_Python_Game) — A 2D game created in Python as part of a school assignment, with graphics and gameplay.  
+
+
 
 ---
 
