@@ -39,9 +39,10 @@
 ## 📊 GitHub Stats
 
 ![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=tokyonight&cache_seconds=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&cache_seconds=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ---
+
 
 ## 🌱 Fun fact
 
