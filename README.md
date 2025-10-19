@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Natan Oliveira  
 
-🎓 I'm a **Computer Science student** at [IF Sudeste MG - Campus Rio Pomba](https://www.ifsudestemg.edu.br/rio-pomba).  
+🎓 I'm a **Computer Science student** at [IF Sudeste MG - Campus Rio Pomba](https://www.ifsudestemg.edu.br/riopomba).  
 💻 Passionate about **software development**, **automation**, and **technology applied to education and science**.  
 🚀 Always learning, creating, and exploring new ideas.
 
