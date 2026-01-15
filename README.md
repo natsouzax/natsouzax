@@ -72,18 +72,12 @@ https://github.com/natsouzax/SchoolWork_OOP_PHP
 
 ---
 
-## 📊 GitHub Stats
-
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&count_private=true)
-
----
 
 ## 🌍 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/natan-oliveira-5bb091206  
-- Instagram: https://www.instagram.com/ntzn_17  
-
+- Instagram: https://www.instagram.com/otaldontzn  
+- natanoliveiraad855@gmail.com
 ---
 
 > “The best way to predict the future is to create it.” — Alan Kay  
