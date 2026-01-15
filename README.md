@@ -1,53 +1,90 @@
-# 👋 Hi there! I'm Natan Oliveira  
+# 👋 Hi, I'm Natan Oliveira
 
-🎓 I'm a **Computer Science student** at [IF Sudeste MG - Campus Rio Pomba](https://www.ifsudestemg.edu.br/riopomba).  
-💻 Passionate about **software development**, **automation**, and **technology applied to education and science**.  
-🚀 Always learning, creating, and exploring new ideas.
+I'm a **Software Developer** focused on **automation, systems, and process optimization**, with experience supporting real-world products and operations in **LegalTech and digital platforms**.
+
+Currently based in Brazil and open to **remote and international opportunities**.
 
 ---
 
 ## ⚡ About me
 
-- 🧠 I’m currently learning and applying **Python**, **C#**, **PHP**, **SQL/Databases**, and **Front-end basics** (HTML, CSS, JavaScript)  
-- 💬 Ask me about: programming, 3D printing, tech projects, or academic life!  
-- 🔭 I’m working on: small Python projects, PHP apps, and automation tools  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/natan-oliveira-5bb091206) • [Instagram](https://www.instagram.com/ntzn_17)
+- 🧠 Strong focus on **Python automation**, system logic, and workflow optimization  
+- ⚙️ Experience with **bots (Telegram / WhatsApp flows)**, scripts, and internal tools  
+- 🧩 Technical support with an **engineering mindset**: analyzing systems, identifying bottlenecks, and proposing improvements  
+- 🚀 Interested in **Micro SaaS, MVPs, AI-assisted tools, and scalable systems**  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-375BD2?style=for-the-badge&logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Languages & Core Tools**
+- Python (automation, scripts, logic)
+- SQL / Databases
+- PHP (OOP fundamentals)
+- C#
+- HTML, CSS, JavaScript (basics)
+
+**Tools & Environment**
+- Git & GitHub
+- VS Code
+- APIs & integrations
+- Automation flows
+- Technical documentation & reports
+
+---
+
+## 💼 Professional Experience
+
+**Technical Support & Automation — LegalTech (BitJuris)**  
+- Platform and system support  
+- Process automation and workflow organization  
+- Technical analysis and improvement suggestions  
+- Support for product growth and scalability  
+
+**Software Developer — EmComp (Junior Enterprise)**  
+- Python-based projects  
+- Logic-driven solutions  
+- Collaboration in real business environments  
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 [**AI English Learning (Python)**](https://github.com/natsouzax/AI_english_learning_done_in_python) — An AI-powered project for learning English with interactive flashcards and quizzes.  
-🔹 [**School Work - OOP PHP**](https://github.com/natsouzax/SchoolWork_OOP_PHP) — Object-Oriented Programming project in PHP, demonstrating class design and relationships.  
-🔹 [**2D Python Game**](https://github.com/natsouzax/2D-_Python_Game) — A 2D game created in Python as part of a school assignment, with graphics and gameplay.  
+🔹 **Telegram Automation Bot (Python)**  
+Automation-focused Telegram bot with structured commands, message handling, and integration-ready architecture.  
+👉 Focus: automation logic, bot flows, and scalable structure  
+https://github.com/natsouzax/telegram-crypto-bot 
+
+🔹 **AI English Learning (Python)**  
+AI-powered tool for English learning using interactive flashcards and quizzes.  
+👉 Focus: logic, structure, and educational use case  
+https://github.com/natsouzax/AI_english_learning_done_in_python  
+
+🔹 **2D Python Game (Award-Winning Project)**  
+2D game developed in Python with graphics and gameplay mechanics.  
+👉 Focus: programming logic and project structure  
+https://github.com/natsouzax/2D-_Python_Game  
+
+🔹 **OOP PHP – Academic Project**  
+Object-Oriented Programming project demonstrating class design and relationships.  
+👉 Focus: clean structure and OOP concepts  
+https://github.com/natsouzax/SchoolWork_OOP_PHP  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&count_private=true&cache_seconds=0)
+![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
-## 🌱 Fun fact
+## 🌍 Connect with me
 
-> "The best way to predict the future is to create it." — Alan Kay  
-Always experimenting, learning, and sharing ideas!
+- LinkedIn: https://www.linkedin.com/in/natan-oliveira-5bb091206  
+- Instagram: https://www.instagram.com/ntzn_17  
 
 ---
 
-⭐️ Feel free to check my repositories and connect with me!
+> “The best way to predict the future is to create it.” — Alan Kay  
+Building systems, automations, and solutions that actually get used.
