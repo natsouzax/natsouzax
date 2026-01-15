@@ -77,7 +77,7 @@ https://github.com/natsouzax/SchoolWork_OOP_PHP
 
 - LinkedIn: https://www.linkedin.com/in/natan-oliveira-5bb091206  
 - Instagram: https://www.instagram.com/otaldontzn  
-- natanoliveiraad855@gmail.com
+- Email: natanoliveiraad855@gmail.com
 ---
 
 > “The best way to predict the future is to create it.” — Alan Kay  
