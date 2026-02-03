@@ -22,7 +22,7 @@ Currently based in Brazil and open to **remote and international opportunities**
 - SQL / Databases
 - PHP (OOP fundamentals)
 - C#
-- HTML, CSS, JavaScript (basics)
+- HTML, CSS, JavaScript 
 
 **Tools & Environment**
 - Git & GitHub
