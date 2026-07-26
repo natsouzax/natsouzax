@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Natan Oliveira
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:natanoliveiraad855@gmail.com) [![Lexuri](https://img.shields.io/badge/Live%20Product-Lexuri-6366F1?style=flat)](https://lexuri.app)
+
 **IT Technician & Junior Developer** focused on automation, backend systems, and scalable digital products.
 Currently based in Brazil, relocating to **Covilhã, Portugal in August 2026** to begin Computer Engineering at **Universidade da Beira Interior**.
 
 Open to **part-time roles and internships** in IT support, backend development, or automation, remote or on-site in Portugal.
+
+⭐ If any of these projects are useful to you, a star or a follow is always appreciated — I build in public and ship regularly.
 
 ---
 
@@ -51,7 +55,7 @@ Open to **part-time roles and internships** in IT support, backend development, 
 `Next.js` `React` `Tailwind CSS` `Supabase` `Stripe` `OpenAI API` `Telegram Bot API` `Git & GitHub` `Vercel`
 
 **Areas**
-`Process Automation` · `Full Stack Development` · `IT Support` · `API Integrations` · `Project Manegment`
+`Process Automation` · `Full Stack Development` · `IT Support` · `API Integrations` · `Project Management`
 
 ---
 
@@ -59,9 +63,13 @@ Open to **part-time roles and internships** in IT support, backend development, 
 
 - **Freelance Web Developer:** Responsive websites and landing pages for businesses across Europe (Actual role)
 - **Technical Support & Automation — BitJuris (LegalTech):** Platform support, internal workflow automation, process improvement
-- ** Aux Project Manager — EmComp (Junior Enterprise):** Web projects, team enviroment, video editing teaching and  freelas
+- **Aux Project Manager — EmComp (Junior Enterprise):** Web projects, team environment, video editing, teaching, and freelance work
 - **3D Printing Project — IFET Sudeste MG:** Award-winning project recognized at SIMEPE (Minas Gerais)
 
+---
+## GitHub Stats
+![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 🌍 Connect
