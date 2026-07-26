@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natan Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:natanoliveiraad855@gmail.com) [![Lexuri](https://img.shields.io/badge/Live%20Product-Lexuri-6366F1?style=flat)](https://lexuri.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliveira.natan.dev@gmail.com) [![Lexuri](https://img.shields.io/badge/Live%20Product-Lexuri-6366F1?style=flat)](https://lexuri.app)
 
 **IT Technician & Junior Developer** focused on automation, backend systems, and scalable digital products.
 Currently based in Brazil, relocating to **Covilhã, Portugal in August 2026** to begin Computer Engineering at **Universidade da Beira Interior**.
@@ -71,7 +71,7 @@ Open to **part-time roles and internships** in IT support, backend development, 
 ## 🌍 Connect
 
 - 💼 LinkedIn: [linkedin.com/in/natan-de-souza-oliveira](https://www.linkedin.com/in/natan-de-souza-oliveira-it/)
-- 📧 Email: natanoliveiraad855@gmail.com
+- 📧 Email: natanoliveiraad855@gmail.com · oliveira.natan.dev@gmail.com
 - 📍 Relocating to Covilhã, Portugal — August 2026
 
 ---
