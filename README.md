@@ -67,10 +67,6 @@ Open to **part-time roles and internships** in IT support, backend development, 
 - **3D Printing Project — IFET Sudeste MG:** Award-winning project recognized at SIMEPE (Minas Gerais)
 
 ---
-## GitHub Stats
-![Natan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsouzax&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natsouzax&layout=compact&theme=dark&hide_border=true)
----
 
 ## 🌍 Connect
 
