@@ -2,10 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliveira.natan.dev@gmail.com) [![Lexuri](https://img.shields.io/badge/Live%20Product-Lexuri-6366F1?style=flat)](https://lexuri.app)
 
-**IT Technician & Junior Developer** focused on automation, backend systems, and scalable digital products.
+**Full-Stack Developer (Junior)** focused on Next.js, TypeScript, AI/LLM integrations, and cloud deployment (Vercel, Railway).
 Currently based in Brazil, relocating to **Covilhã, Portugal in August 2026** to begin Computer Engineering at **Universidade da Beira Interior**.
 
-Open to **part-time roles and internships** in IT support, backend development, or automation, remote or on-site in Portugal.
+Freelancer since February 2026, building Lexuri end-to-end. Open to **remote, part-time roles** at early-stage European startups.
 
 ⭐ If any of these projects are useful to you, a star or a follow is always appreciated — I build in public and ship regularly.
 
@@ -52,7 +52,7 @@ Open to **part-time roles and internships** in IT support, backend development, 
 `Python` `TypeScript` `JavaScript` `PHP` `SQL`
 
 **Frameworks & Tools**
-`Next.js` `React` `Tailwind CSS` `Supabase` `Stripe` `OpenAI API` `Telegram Bot API` `Git & GitHub` `Vercel`
+`Next.js` `React` `Tailwind CSS` `Supabase` `Stripe` `OpenAI API` `Telegram Bot API` `Git & GitHub` `Vercel` `Railway`
 
 **Areas**
 `Process Automation` · `Full Stack Development` · `IT Support` · `API Integrations` · `Project Management`
