@@ -71,9 +71,9 @@ Freelancer since February 2026, building Lexuri end-to-end. Open to **remote, pa
 > > > >
 > > > > ## 🌍 Connect
 > > > >
-> > > > - 💼 LinkedIn: [linkedin.com/in/natan-de-souza-oliveira](https://www.linkedin.com/in/natan-de-souza-oliveira-it/)
-> > > > - - 📧 Email: natanoliveiraad855@gmail.com · oliveira.natan.dev@gmail.com
-> > > >   - - 📍 Relocating to Covilhã, Portugal — August 2026
+> > > > - 💼 LinkedIn: [linkedin.com/in/odevntzn](https://www.linkedin.com/in/odevntzn/)
+> > > > - - 📧 Email: oliveira.natan.dev@gmail.com
+> > > >   - - 📍  Covilhã, Portugal 
 > > > >    
 > > > >     - ---
 > > > >
