@@ -6,11 +6,11 @@
 
 Computer Engineering student at UBI · Covilhã, Portugal
 
-[![Portfolio projects](https://img.shields.io/badge/Explore_my_work-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natsouzax?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it)
-[![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveira.natan.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_portfolio-B8EF4C?style=for-the-badge&logo=vercel&logoColor=080E0D)](https://natsouzax.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111A14?style=for-the-badge&logo=linkedin&logoColor=B8EF4C)](https://www.linkedin.com/in/natan-de-souza-oliveira-it)
+[![Email](https://img.shields.io/badge/Email-111A14?style=for-the-badge&logo=gmail&logoColor=B8EF4C)](mailto:oliveira.natan.dev@gmail.com)
 
-[About](#hey-im-natan-) · [Projects](#selected-work) · [Toolkit](#the-toolkit) · [Contact](#contact)
+[About](#hey-im-natan-) · [Projects](#selected-work) · [Toolkit](#the-toolkit) · [Portfolio](https://natsouzax.vercel.app/) · [Contact](#contact)
 
 </div>
 
@@ -94,7 +94,7 @@ Choose a song → listen with synced lyrics → save new words → review them o
 
 **Have a project or opportunity in mind?**
 
-[LinkedIn](https://www.linkedin.com/in/natan-de-souza-oliveira-it) · [Email](mailto:oliveira.natan.dev@gmail.com) · [GitHub](https://github.com/natsouzax)
+[Portfolio](https://natsouzax.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/natan-de-souza-oliveira-it) · [Email](mailto:oliveira.natan.dev@gmail.com) · [GitHub](https://github.com/natsouzax)
 
 <sub>Made with curiosity in Covilhã 🇵🇹</sub>
 
