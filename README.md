@@ -7,7 +7,7 @@
 Full-stack developer · Computer Engineering student at UBI · Covilhã, Portugal
 
 [![Portfolio projects](https://img.shields.io/badge/Explore_my_work-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natsouzax?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-de-souza-oliveira-it)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odevntzn)
 [![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveira.natan.dev@gmail.com)
 
 </div>
