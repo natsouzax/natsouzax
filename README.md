@@ -1,90 +1,97 @@
 <div align="center">
 
-![Natan Oliveira — full-stack developer and AI integrations](assets/profile-banner.svg)
+![Natan Oliveira — full-stack development, AI and automation](assets/profile-banner.svg)
 
-**I build products that turn complex workflows into simple experiences.**
+### Building useful software — from the interface to the API, database and deployment.
 
-Computer Engineering student at UBI · Covilhã, Portugal
+**Full-stack Developer · Computer Science & Engineering student at UBI · Covilhã, Portugal**
 
-[![Portfolio](https://img.shields.io/badge/View_portfolio-B8EF4C?style=for-the-badge&logo=vercel&logoColor=080E0D)](https://natsouzax.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8EF4C?style=for-the-badge&logo=vercel&logoColor=080E0D)](https://natsouzax.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111A14?style=for-the-badge&logo=linkedin&logoColor=B8EF4C)](https://www.linkedin.com/in/odevntzn)
 [![Email](https://img.shields.io/badge/Email-111A14?style=for-the-badge&logo=gmail&logoColor=B8EF4C)](mailto:oliveira.natan.dev@gmail.com)
 
-[About](#hey-im-natan-) · [Projects](#selected-work) · [Toolkit](#the-toolkit) · [Portfolio](https://natsouzax.vercel.app/) · [Contact](#contact)
+[About](#about-me) · [Selected Work](#selected-work) · [Tech Stack](#tech-stack) · [Experience](#experience) · [Contact](#contact)
 
 </div>
 
 ---
 
-### Hey, I'm Natan 👋
+## About me
 
-I design and ship web products, from the first interface to the database and deployment. My work sits at the intersection of **full-stack development, AI integrations and useful automation**. I also enjoy turning a client brief into something people can actually try.
+Hey, I'm **Natan Oliveira** 👋
 
-Currently studying **Computer Engineering at Universidade da Beira Interior** and working on freelance projects. I'm open to **remote, part-time opportunities** where I can keep building and learning.
+I'm a Brazilian full-stack developer based in Portugal. I enjoy taking an idea from its first sketch to a working product: **designing the UI, writing application logic, connecting APIs, modelling data and deploying the result**.
 
-### Selected work
+I've been working on freelance software projects since **February 2026**, alongside web development work with **Layout Agency**. I'm also pursuing a degree in **Engenharia Informática at Universidade da Beira Interior (UBI)**, building on my technical training in Informatics at **IF Sudeste MG**.
+
+My interests span **web and mobile products, AI integrations, automation and interactive experiences**. I care about maintainable code, thoughtful UX and software that solves a real problem.
+
+> **Currently:** building client-facing web experiences, developing personal products and studying computer science. Open to remote and part-time software opportunities.
+
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🎧 <a href="https://github.com/natsouzax/lexuri">Lexuri</a></h3>
-<p><strong>Learn English through the music you love</strong></p>
-<p>A research prototype with synced lyrics, tap-to-translate vocabulary and a three-day review cycle. Learners turn their takeaways into verses of their own song.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>OpenAI</code></p>
-<p><a href="https://github.com/natsouzax/lexuri">Explore the code →</a> · <a href="https://lexuri-validacao.vercel.app">Try the prototype →</a></p>
+<h3>🎵 <a href="https://github.com/natsouzax/lexuri">Lexuri</a> <sub>· Featured full-stack product</sub></h3>
+<p><strong>Learn English through music, context and practice.</strong></p>
+<p>An evolving language-learning platform combining synced lyrics, vocabulary discovery, spaced review and AI-supported learning. Built across the product stack: frontend, authentication, database, AI integrations and deployment.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Supabase/Postgres</code> <code>OpenAI</code></p>
+<p><a href="https://lexuri-validacao.vercel.app/">Live prototype</a> · <a href="https://github.com/natsouzax/lexuri">Source code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>💸 <a href="https://github.com/natsouzax/fluxo">Fluxo</a></h3>
-<p><strong>Finances, notes and routine in one app</strong></p>
-<p>A React Native MVP with a contextual AI copilot. It has local persistence and an Anthropic integration; bank data and sign-in are currently demos.</p>
-<p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Zustand</code></p>
-<p><a href="https://github.com/natsouzax/fluxo">Explore the code →</a></p>
+<h3>🎮 <a href="https://github.com/natsouzax/game_jam">Together</a> <sub>· Game Jam</sub></h3>
+<p><strong>A cooperative climb through a ruined world.</strong></p>
+<p>A playable local co-op platformer built during a game jam. Players collect materials, build platforms and survive hazards while climbing a tower. Supports solo play, two controllers and keyboard input.</p>
+<p><code>GameMaker</code> <code>GML</code> <code>Gameplay logic</code> <code>Local co-op</code></p>
+<p><a href="https://github.com/natsouzax/game_jam/releases/latest/download/Together_final.exe">Download for Windows</a> · <a href="https://github.com/natsouzax/game_jam">Source & screenshots</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🛍️ <a href="https://github.com/natsouzax/Interactive-proposal-for-LS-Store">LS Store proposal</a></h3>
-<p><strong>A sales proposal you can click through</strong></p>
-<p>An interactive client-facing demo that shows the proposed product experience instead of relying on a static pitch.</p>
-<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Vercel</code></p>
-<p><a href="https://github.com/natsouzax/Interactive-proposal-for-LS-Store">Explore the code →</a> · <a href="https://ls-store.vercel.app/">View the demo →</a></p>
+<h3>🤖 <a href="https://github.com/natsouzax/telegram-ai-automation-bot">Telegram AI Automation</a> <sub>· Python</sub></h3>
+<p><strong>Automated communication and useful content on Telegram.</strong></p>
+<p>An independently rewritten, anonymized portfolio demo inspired by a client automation project. Features bot commands, educational AI-generated tips, scheduled messages and lightweight subscriber storage.</p>
+<p><code>Python</code> <code>Telegram Bot API</code> <code>OpenAI</code> <code>SQLite</code></p>
+<p><a href="https://github.com/natsouzax/telegram-ai-automation-bot">Explore the project</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>⚡ What I'm exploring</h3>
-<p><strong>Practical AI and automation</strong></p>
-<p>I like building tools that reduce repetitive work, clarify decisions and make software feel approachable. I'm also exploring robotics during my degree.</p>
-<p><code>AI integrations</code> <code>APIs</code> <code>Automation</code> <code>Robotics</code></p>
-<p><a href="https://github.com/natsouzax?tab=repositories">See all repositories →</a></p>
+<h3>⚡ <a href="https://github.com/natsouzax/x-ai-content-automation">X AI Content Automation</a> <sub>· JavaScript</sub></h3>
+<p><strong>From an AI-generated draft to controlled social publishing.</strong></p>
+<p>A separate, anonymized demonstration of a content automation workflow: text and optional image generation, editorial checks, duplicate prevention, local history and explicit opt-in publishing through the X API.</p>
+<p><code>JavaScript</code> <code>Node.js</code> <code>OpenAI</code> <code>X API</code></p>
+<p><a href="https://github.com/natsouzax/x-ai-content-automation">Explore the project</a></p>
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>✨ What happens when you open Lexuri?</strong></summary>
+<summary><strong>More projects and experiments</strong></summary>
 
-Choose a song → listen with synced lyrics → save new words → review them over three days → turn your takeaways into a verse.
-
-[Explore the product →](https://github.com/natsouzax/lexuri)
+- **[Fluxo](https://github.com/natsouzax/fluxo)** — a React Native/Expo prototype for personal finances, notes and routines, with local-first persistence and an experimental assistant.
+- **[LS Store interactive proposal](https://github.com/natsouzax/Interactive-proposal-for-LS-Store)** — an interactive Next.js proposal designed to make a client-facing product idea tangible.
+- **[All public repositories](https://github.com/natsouzax?tab=repositories)** — coursework, prototypes, experiments and earlier projects.
 
 </details>
 
-### The toolkit
+## Tech Stack
 
-| Build | Connect & ship |
+| Area | Technologies |
 | :-- | :-- |
-| TypeScript · JavaScript · Python · SQL | Supabase · Postgres · APIs · Git |
-| Next.js · React · React Native · Tailwind CSS | OpenAI · Anthropic · Vercel · Railway |
+| **Frontend & mobile** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · React Native · Expo |
+| **Backend & data** | Node.js · Python · SQL · PostgreSQL · Supabase · SQLite · REST APIs |
+| **AI & automation** | OpenAI APIs · AI integrations · Telegram Bot API · X API · n8n · Make |
+| **Workflow & deployment** | Git · GitHub · Vercel · Railway |
+| **Beyond the web** | GameMaker/GML · Computer hardware troubleshooting · Arduino/ESP32 |
 
-<details>
-<summary><strong>More about my path</strong></summary>
-<br>
+## Experience
 
-- Freelance web developer creating websites and digital experiences for clients.
-- Technical support and workflow automation experience at BitJuris.
-- Project work with EmComp, a junior enterprise.
-- Technical training in Informatics at IF Sudeste MG, including hands-on hardware and software projects.
+- **2026–present · Freelance Full-Stack Developer** — web applications, prototypes, API integrations and practical software solutions for clients.
+- **2026–present · Web Development, Layout Agency** — remote/hybrid work on websites and digital experiences.
+- **2026–present · BSc in Engenharia Informática, UBI** — studying software development and computer science in Portugal.
+- **Technical Informatics, IF Sudeste MG** — foundational training in programming, computer systems and technical support.
 
-</details>
+I work primarily in **Portuguese and English** and enjoy collaborating across disciplines.
 
 ---
 
@@ -92,10 +99,12 @@ Choose a song → listen with synced lyrics → save new words → review them o
 
 <a id="contact"></a>
 
-**Have a project or opportunity in mind?**
+### Let's build something useful.
+
+I'm interested in full-stack development, product engineering and practical AI automation.
 
 [Portfolio](https://natsouzax.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/odevntzn) · [Email](mailto:oliveira.natan.dev@gmail.com) · [GitHub](https://github.com/natsouzax)
 
-<sub>Made with curiosity in Covilhã 🇵🇹</sub>
+<sub>Built with curiosity in Covilhã, Portugal 🇵🇹</sub>
 
 </div>
